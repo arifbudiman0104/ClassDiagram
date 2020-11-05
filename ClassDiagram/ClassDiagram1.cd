@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ClassDiagram.Admin">
+    <Position X="1" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAEAAAAEgIAAAAAAAAAA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagram.Produk">
+    <Position X="5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAACAAABAAAAgAAAAAECAAAAAAAAgAAA=</HashCode>
+      <FileName>Produk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassDiagram.Transaksi">
+    <Position X="5" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAACAAAAQIAAAASABIAAAAEAAIAAgAIAAAAA=</HashCode>
+      <FileName>Transaksi.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Admin" />
+      <Property Name="Customer" />
+      <Property Name="Produk" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassDiagram.Customer">
+    <Position X="9" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAIAAAAAAAIAAAAAAAAAACAACAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
